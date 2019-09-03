@@ -1,0 +1,102 @@
+h1{
+    border-style: solid;
+    width: 500px;
+    padding: 10px 5px 5px 10px;
+    margin-left: 37%;
+    margin-top: 1%;
+    text-align: center;
+    border-color:beige;
+    border-radius: 10px;
+    color: red;
+}
+
+h2{
+    border-style: solid;
+    width: 500px;
+    padding: 10px 5px 5px 10px;
+    text-align: center;
+    border-color:beige;
+    border-radius: 10px;
+    color: red;
+    margin-left: 36%;
+}
+
+th{
+    color: yellow;
+}
+
+td{
+    color: tomato;
+}
+
+th, td{
+    width: 100px;
+}
+
+table, th, tr, td{
+    padding: 10px 5px 5px 10px;
+    text-align: center;
+    border-color:beige;
+    border-radius: 10px;
+    background: black;
+}
+
+
+input{
+    width: 300px;
+    height: 20px;
+    background: black;
+    color: tomato;
+    font-size: 16pt;
+    border: solid;
+    border-color: beige;
+    text-align: center;
+}
+
+#formulario{
+    margin-left: 43%;
+}
+
+.contenedor{
+    margin-left: 33%;
+    margin-top: 2%;
+}
+
+
+#resultado{
+    font-weight: bold;
+    font-style: italic;
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18pt;    
+}
+
+
+body{
+    background: black;
+}
+
+
+
+button{
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    font-style: italic;
+    background: black;
+    font-weight: bold;
+    color: green;
+    
+}
+
+#btns{
+    margin-left: 30%;
+}
+
+label{
+    color: beige;
+}
+
+span{
+    text-decoration-line: underline;
+}
